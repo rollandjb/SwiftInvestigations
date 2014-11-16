@@ -10,3 +10,5 @@ These are the issues to consider:
 
 + Security
 + License
++ Management
+
